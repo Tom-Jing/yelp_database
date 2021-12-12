@@ -1,0 +1,59 @@
+{"business_id": "vcNAWiLM4dR7D2nwwJ7nCA", 
+ "full_address": "4840 E Indian School Rd\nSte 101\nPhoenix, AZ 85018", 
+  "hours": {"Tuesday": {"close": "17:00", "open": "08:00"}, 
+                "Friday": {"close": "17:00", "open": "08:00"}, "Monday": {"close": "17:00", "open": "08:00"}, 
+	"Wednesday": {"close": "17:00", "open": "08:00"}, 
+	"Thursday": {"close": "17:00", "open": "08:00"}}, 
+  "open": true, 
+  "categories": ["Doctors", "Health & Medical"], 
+  "city": "Phoenix", 
+  "review_count": 7, 
+  "name": "Eric Goldberg, MD", 
+  "neighborhoods": [], 
+  "longitude": -111.98375799999999,  
+  "state": "AZ", 
+  "stars": 3.5, 
+  "latitude": 33.499313000000001, 
+  "attributes": {"By Appointment Only": true}, 
+  "type": "business"}
+
+
+
+
+{"checkin_info": {"3-4": 1, "13-5": 1, "6-6": 1, "14-5": 1, "14-6": 1, "14-2": 1, "14-3": 1, "19-0": 1, "11-5": 1, "13-2": 1, "11-6": 2, "11-3": 1, "12-6": 1, "6-5": 1, "5-5": 1, "9-2": 1, "9-5": 1, "9-6": 1, "5-2": 1, "7-6": 1, "7-5": 1, "7-4": 1, "17-5": 1, "8-5": 1, "10-2": 1, "10-5": 1, "10-6": 1}, 
+ "type": "checkin", 
+ "business_id": "JwUE5GmEO-sH1FuwJgKBlQ"}
+
+
+
+
+{"votes": {"funny": 0, 
+	"useful": 2, 
+	"cool": 1}, 
+ "user_id": "Xqd0DzHaiyRqVH3WRG7hzg", 
+ "review_id": "15SdjuK7DmYqUAj6rjGowg", 
+ "stars": 5, 
+ "date": "2007-05-17", 
+ "text": "dr. goldberg offers everything i look for in a general practitioner.  he's nice and easy to talk to without being patronizing; he's always on time in seeing his patients; he's affiliated with a top-notch hospital (nyu) which my parents have explained to me is very important in case something happens and you need surgery; and you can get referrals to see specialists without having to see him first.  really, what more do you need?  i'm sitting here trying to think of any complaints i have about him, but i'm really drawing a blank.", 
+ "type": "review", 
+ "business_id": "vcNAWiLM4dR7D2nwwJ7nCA"}
+
+
+
+
+{"yelping_since": "2012-02", 
+ "votes": {"funny": 1, 
+               "useful": 5, 
+	"cool": 0}, 
+ "review_count": 6, 
+ "name": "Lee", 
+ "user_id": "qtrmBGNqCvupHMHL_bKFgQ", 
+ "friends": [], 
+ "fans": 0, 
+ "average_stars": 3.8300000000000001, 
+ "type": "user", 
+ "compliments": {}, 
+ "elite": []}
+
+
+
